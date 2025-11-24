@@ -1,6 +1,12 @@
+/* CSS Variables */
+:root {    
+    --main-bg-color: blue; 
+}
+
 body{
     display: flex;
     flex-direction: column;
+    background-color: var(--main-bg-color);
 }
 
 main{
