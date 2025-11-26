@@ -434,3 +434,8 @@ footer {
         gap: 20px;
     }
 }
+
+.copyright {
+    display: flex;
+    align-items: center;
+}
