@@ -136,7 +136,7 @@ h1 {
 
 /* Testimonial Section */
 .testimonial {
-    background: linear-gradient(135deg, #c471ed, #f64f59);
+    background: rgb(194, 113, 255);
     padding: 80px 20px;
     color: white;
 }
